@@ -1,4 +1,4 @@
 public interface Converter {
 
-    void convert(Byte bytes)
+    void convert(byte[] text);
 }
